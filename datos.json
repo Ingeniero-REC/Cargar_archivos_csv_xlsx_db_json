@@ -1,0 +1,29 @@
+{
+  "empresa": "Ingeniero REC Store",
+  "empleados": [
+    {
+      "nombre": "Ana",
+      "puesto": "Analista de Datos",
+      "contacto": {
+        "email": "ana@empresa.com",
+        "ciudad": "Arequipa"
+      }
+    },
+    {
+      "nombre": "Luis",
+      "puesto": "Data Engineer",
+      "contacto": {
+        "email": "luis@empresa.com",
+        "ciudad": "Lima"
+      }
+    },
+    {
+      "nombre": "Maria",
+      "puesto": "Analista BI",
+      "contacto": {
+        "email": "maria@empresa.com",
+        "ciudad": "Cusco"
+      }
+    }
+  ]
+}
